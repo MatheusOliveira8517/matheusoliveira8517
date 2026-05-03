@@ -1,79 +1,129 @@
-<h1 align="center">Olá, eu sou o Matheus Oliveira 👋</h1>
+# 👨🏻‍💻 Matheus Oliveira
 
-<h3 align="center">
-Desenvolvedor em formação | JavaScript | SQL Server | Node.js | CSS | HTML | Git & GitHub
-</h3>
+**`Desenvolvedor em formação | Futuro Full Stack`**
+
+Me chamo Matheus Oliveira, sou formado em **Engenharia Civil** e possuo **Pós-graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas**. Atualmente, estou em transição para a área de **Tecnologia**, com foco em **Desenvolvimento de Sistemas**.
+
+Tenho estudado e praticado conceitos de programação, desenvolvimento web, banco de dados e versionamento de código. Atualmente, estou aprofundando meus conhecimentos em **JavaScript, HTML, CSS, Node.js, SQL Server, Git e GitHub**, buscando construir uma base sólida para atuar como **Desenvolvedor Júnior**.
+
+Minha trajetória profissional me ajudou a desenvolver habilidades como organização, pensamento crítico, resolução de problemas, análise de processos e trabalho em equipe. Hoje, aplico essas experiências na criação de soluções tecnológicas e no desenvolvimento de projetos práticos.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/matheus-batista-de-oliveira-179405194/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Me acompanhe no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:matheusbatista331@icloud.com">
+        <img 
+            alt="E-mail" 
+            title="Entre em contato por e-mail" 
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 🤖 Linguagens e Tecnologias
 
-Sou formado em **Engenharia Civil** e atualmente estou em transição para a área de **Tecnologia**, com foco em **Desenvolvimento de Sistemas**.
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
 
-Tenho conhecimentos em **JavaScript, HTML, CSS, SQL Server, Node.js, Git e GitHub**, além de estar aprofundando meus estudos em lógica de programação e desenvolvimento web.
-
-Minha trajetória profissional me trouxe experiência com organização, análise crítica, acompanhamento de processos, resolução de problemas e gestão de atividades, habilidades que hoje aplico no desenvolvimento de soluções tecnológicas.
+<br/>
+<br/>
 
 ---
 
-## 🚀 Atualmente estudando
+### 📚 Atualmente estudando
 
 - Lógica de programação
 - JavaScript
 - HTML e CSS
-- Git e GitHub
 - Node.js
 - SQL Server
+- Git e GitHub
+- Desenvolvimento Web
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### 🎯 Objetivo
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-
-</div>
+Busco minha primeira oportunidade como **Desenvolvedor Júnior**, com interesse em desenvolvimento web e evolução contínua para atuar futuramente como **Desenvolvedor Full Stack**.
 
 ---
 
-## 📌 Objetivo
+### 📊 Estatísticas
 
-Busco minha primeira oportunidade como **Desenvolvedor Júnior**, com interesse em desenvolvimento web e, futuramente, atuação como **desenvolvedor Full Stack**.
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira8517&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira8517&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira8517&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/(https://www.linkedin.com/feed/)" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:matheusbatista331@icloud.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-✨ Sempre aprendendo, praticando e construindo novos projetos.
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira8517&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
